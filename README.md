@@ -101,8 +101,12 @@ Now it's time to put it all together and test the Fintech Finder application wit
 4. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. Navigate to the Transactions section of Ganache.
 
     * Take a screenshot of your address balance and history on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+    
+![Image1](Images/Screen Shot 2022-04-29 at 8.15.19 PM.png)
 
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+>    
+![Image2](ash.jpeg)
 
 5. Return to the original transaction, and click the transaction’s To address.
 
